@@ -137,24 +137,26 @@
    [Link to Paper](https://doi.org/10.1080/15420353.2024.2357115)
 
 28. **Extracting Geographic Knowledge from Large Language Models: An Experiment**  
-   Authors: Author1, Author2, Author3  
+   Authors: Salmas, K., Pantazi, D. A., & Koubarakis, M.  
    Published: CEUR Workshop Proceedings, 2023  
-   [Link to Paper](URL)
 
-29. **Title of Paper 3**  
-   Authors: Author1, Author2, Author3  
-   Published: Journal Name, Year  
-   [Link to Paper](URL)
+29. **Geo-knowledge-guided GPT models improve the extraction of location descriptions from disaster-related social media messages**  
+   Authors: Hu, Y., Mai, G., Cundy, C., Choi, K., Lao, N., Liu, W., Lakhanpal, G., Zhou, R. Z., & Joseph, K.  
+   Published: International Journal of Geographical Information Science, 2023  
+   [Link to Paper](https://doi.org/10.1080/13658816.2023.2266495)
 
-30. **Title of Paper 3**  
-   Authors: Author1, Author2, Author3  
-   Published: Journal Name, Year  
-   [Link to Paper](URL)
+30. **Towards a foundation model for geospatial artificial intelligence (vision paper)**  
+   Authors: Mai, G., Cundy, C., Choi, K., Hu, Y., Lao, N., & Ermon, S.  
+   Published: GIS: Proceedings of the ACM International Symposium on Advances in Geographic Information Systems, 2022  
+   [Link to Paper](https://doi.org/10.1145/3557915.3561043)
 
-31. **Title of Paper 3**  
-   Authors: Author1, Author2, Author3  
-   Published: Journal Name, Year  
-   [Link to Paper](URL)
+
+## Reviewed papers in the field of LLM-based spatial data generation
+
+31. **A Semantic-Spatial Aware Data Conflation Approach for Place Knowledge Graphs**  
+   Authors: He, L., Li, H., & Zhang, R.  
+   Published: ISPRS International Journal of Geo-Information, 2024  
+   [Link to Paper](https://doi.org/10.3390/ijgi13040106)
 
 32. **Title of Paper 3**  
    Authors: Author1, Author2, Author3  
