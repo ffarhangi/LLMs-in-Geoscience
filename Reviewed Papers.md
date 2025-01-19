@@ -158,55 +158,53 @@
    Published: ISPRS International Journal of Geo-Information, 2024  
    [Link to Paper](https://doi.org/10.3390/ijgi13040106)
 
-32. **Title of Paper 3**  
-   Authors: Author1, Author2, Author3  
-   Published: Journal Name, Year  
-   [Link to Paper](URL)
+32. **MapGPT: an autonomous framework for mapping by integrating large language model and cartographic tools**  
+   Authors: Zhang, Y., He, Z., Li, J., Lin, J., Guan, Q., & Yu, W.  
+   Published: Cartography and Geographic Information Science, 2024  
+   [Link to Paper](https://doi.org/10.1080/15230406.2024.2404868)
 
-33. **Title of Paper 3**  
-   Authors: Author1, Author2, Author3  
-   Published: Journal Name, Year  
-   [Link to Paper](URL)
+33. **Diffusion-Geo: A Two-Stage Controllable Text-To-Image Generative Model for Remote Sensing Scenarios**  
+   Authors: Cai, M., Zhang, W., Zhang, T., Zhuang, Y., Chen, H., Chen, L., & Li, C.  
+   Published: International Geoscience and Remote Sensing Symposium (IGARSS), 2024  
+   [Link to Paper](https://doi.org/10.1109/IGARSS53475.2024.10641523)
 
-34. **Title of Paper 3**  
-   Authors: Author1, Author2, Author3  
-   Published: Journal Name, Year  
-   [Link to Paper](URL)
+34. **RS-AGENT: Large Language Models Guided Agent System for Remote Sensing Image Generation**  
+   Authors: Zhu, L., Wu, J., Wang, B., Zhang, G., Wang, J., Chen, S., & Tan, M.  
+   Published: International Geoscience and Remote Sensing Symposium (IGARSS), 2024  
+   [Link to Paper](https://doi.org/10.1109/IGARSS53475.2024.10640804)
 
-35. **Title of Paper 3**  
-   Authors: Author1, Author2, Author3  
-   Published: Journal Name, Year  
-   [Link to Paper](URL)
+35. **Enhancing Urban Walkability Assessment with Multimodal Large Language Models**  
+   Authors: Blečić, I., Saiu, V., & A. Trunfio, G.  
+   Published: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 2024  
+   [Link to Paper](https://doi.org/10.1007/978-3-031-65282-0_26)
 
-36. **Title of Paper 3**  
-   Authors: Author1, Author2, Author3  
-   Published: Journal Name, Year  
-   [Link to Paper](URL)
+36. **Can Large Language Models Automatically Generate GIS Reports?**  
+   Authors: Starace, L. L. L., & Di Martino, S.  
+   Published: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 2024  
+   [Link to Paper](https://doi.org/10.1007/978-3-031-60796-7_11)
 
-37. **Title of Paper 3**  
-   Authors: Author1, Author2, Author3  
-   Published: Journal Name, Year  
-   [Link to Paper](URL)
+37. **Perception study of urban green spaces in Singapore urban parks: Spatio-temporal evaluation and the relationship with land cover**  
+   Authors: Zhang, W., & Su, Y.  
+   Published: Urban Forestry and Urban Greening, 2024  
+   [Link to Paper](https://doi.org/10.1016/j.ufug.2024.128455)
 
-38. **Title of Paper 3**  
-   Authors: Author1, Author2, Author3  
-   Published: Journal Name, Year  
-   [Link to Paper](URL)
+38. **Map GPT Playground: Smart Locations and Routes with GPT**  
+   Authors: Zhang, C., Karatzoglou, A., Craig, H., & Yankov, D.  
+   Published: GIS: Proceedings of the ACM International Symposium on Advances in Geographic Information Systems, 2023  
+   [Link to Paper](https://doi.org/10.1145/3589132.3625595)
 
-39. **Title of Paper 3**  
-   Authors: Author1, Author2, Author3  
-   Published: Journal Name, Year  
-   [Link to Paper](URL)
+39. **Generative Neural Net for Spatial Concept-To-Image**  
+   Authors: Young, B., Anderson, D. T., Keller, J. M., Petry, F., & Michael, C. J.  
+   Published: Proceedings - Applied Imagery Pattern Recognition Workshop, 2023  
+   [Link to Paper](https://doi.org/10.1109/AIPR60534.2023.10440716)
 
-40. **Title of Paper 3**  
-   Authors: Author1, Author2, Author3  
-   Published: Journal Name, Year  
-   [Link to Paper](URL)
+40. **Deep fake geography? When geospatial data encounter Artificial Intelligence**  
+   Authors: Zhao, B., Zhang, S., Xu, C., Sun, Y., & Deng, C.  
+   Published: Cartography and Geographic Information Science, 2021  
+   [Link to Paper](https://doi.org/10.1080/15230406.2021.1910075)
 
-41. **Title of Paper 3**  
-   Authors: Author1, Author2, Author3  
-   Published: Journal Name, Year  
-   [Link to Paper](URL)
+
+## Reviewed papers in the field of LLM-based spatial prediction
 
 42. **Title of Paper 3**  
    Authors: Author1, Author2, Author3  
@@ -279,6 +277,11 @@
    [Link to Paper](URL)
 
 56. **Title of Paper 3**  
+   Authors: Author1, Author2, Author3  
+   Published: Journal Name, Year  
+   [Link to Paper](URL)
+
+57. **Title of Paper 3**  
    Authors: Author1, Author2, Author3  
    Published: Journal Name, Year  
    [Link to Paper](URL)
