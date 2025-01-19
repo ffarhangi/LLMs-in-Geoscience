@@ -1,5 +1,5 @@
-
 # *Large Language Models in Geospatial Science: A Comprehensive Review of Foundations, Challenges, and Opportunities*
+
 
 ## Reviewed papers in the field of LLM-based spatial analysis
 
@@ -48,6 +48,7 @@
    Published: International Journal of Digital Earth, 2023  
    [Link to Paper](https://doi.org/10.1080/17538947.2023.2278895)
 
+
 ## Reviewed papers in the field of LLM-based spatial data extraction
 
 11. **GeoGPT: An assistant for understanding and processing geospatial tasks**  
@@ -55,50 +56,50 @@
    Published: International journal of Applied earth Observation and Geoinformation, 2024  
    [Link to Paper](https://doi.org/10.1016/j.jag.2024.103976)
 
-12. **Title of Paper 3**  
-   Authors: Author1, Author2, Author3  
-   Published: Journal Name, Year  
-   [Link to Paper](URL)
+12. **Framework to Create Inventory Dataset for Disaster Behavior Analysis Using Google Earth Engine: A Case Study in Peninsular Malaysia for Historical Forest Fire Behavior Analysis**  
+   Authors: Chew, Y. J., Ooi, S. Y., Pang, Y. H., & Lim, Z. Y.  
+   Published: Forests, 2024  
+   [Link to Paper](https://doi.org/10.3390/f15060923)
 
-13. **Title of Paper 3**  
-   Authors: Author1, Author2, Author3  
-   Published: Journal Name, Year  
-   [Link to Paper](URL)
+13. **Comparative Performance of Advanced NLP Models and LLMs in Multilingual Geo-Entity Detection**  
+   Authors: AKopanov, K.  
+   Published: ACM International Conference Proceeding Series, 2024  
+   [Link to Paper](https://doi.org/10.1145/3660853.3660878)
 
-14. **Title of Paper 3**  
-   Authors: Author1, Author2, Author3  
-   Published: Journal Name, Year  
-   [Link to Paper](URL)
+14. **A Question and Answering Service of Typhoon Disasters Based on the T5 Large Language Model**  
+   Authors: Xia, Y., Huang, Y., Qiu, Q., Zhang, X., Miao, L., & Chen, Y.  
+   Published: ISPRS International Journal of Geo-Information, 2024  
+   [Link to Paper](https://doi.org/10.3390/ijgi13050165)
 
-15. **Title of Paper 3**  
-   Authors: Author1, Author2, Author3  
-   Published: Journal Name, Year  
-   [Link to Paper](URL)
+15. **BB-GeoGPT: A framework for learning a large language model for geographic information science**  
+   Authors: Xia, Y., Huang, Y., Qiu, Q., Zhang, X., Miao, L., & Chen, Y.  
+   Published: Information Processing and Management, 2024  
+   [Link to Paper](https://doi.org/10.1016/j.ipm.2024.103808)
 
-16. **Title of Paper 3**  
-   Authors: Author1, Author2, Author3  
-   Published: Journal Name, Year  
-   [Link to Paper](URL)
+16. **Segmentation using large language models: A new typology of American neighborhoods**  
+   Authors: Singleton, A. D., & Spielman, S.  
+   Published: EPJ Data Science, 2024  
+   [Link to Paper](https://doi.org/10.1140/epjds/s13688-024-00466-1)
 
-17. **Title of Paper 3**  
-   Authors: Author1, Author2, Author3  
-   Published: Journal Name, Year  
-   [Link to Paper](URL)
+17. **An LLM-Based Inventory Construction Framework of Urban Ground Collapse Events with Spatiotemporal Locations**  
+   Authors: Hao, Y., Qi, J., Ma, X., Wu, S., Liu, R., & Zhang, X.  
+   Published: ISPRS International Journal of Geo-Information, 2024  
+   [Link to Paper](https://doi.org/10.3390/ijgi13040133)
 
-18. **Title of Paper 3**  
-   Authors: Author1, Author2, Author3  
-   Published: Journal Name, Year  
-   [Link to Paper](URL)
+18. **K2: A Foundation Language Model for Geoscience Knowledge Understanding and Utilization**  
+   Authors: Deng, C., Zhang, T., He, Z., Chen, Q., Shi, Y., Xu, Y., Fu, L., Zhang, W., Wang, X., Zhou, C., Lin, Z., & He, J.  
+   Published: Proceedings of the 17th ACM International Conference on Web Search and Data Mining, 2024  
+   [Link to Paper](https://doi.org/10.1145/3616855.3635772)
 
-19. **Title of Paper 3**  
-   Authors: Author1, Author2, Author3  
-   Published: Journal Name, Year  
-   [Link to Paper](URL)
+19. **Enhancing Spatiotemporal Data Harmonization Through Semantic Enrichment Using SciBERT LLM for Soil Analytic**  
+   Authors: Dhavale, C., Bharambe, U., Shinde, S., & Murkute, A.  
+   Published: International Geoscience and Remote Sensing Symposium (IGARSS), 2024  
+   [Link to Paper](https://doi.org/10.1109/IGARSS53475.2024.10640504)
 
-20. **Title of Paper 3**  
-   Authors: Author1, Author2, Author3  
-   Published: Journal Name, Year  
-   [Link to Paper](URL)
+20. **Toponym resolution leveraging lightweight and open-source large language models and geo-knowledge**  
+   Authors: Hu, X., Kersten, J., Klan, F., & Farzana, S. M.  
+   Published: International Journal of Geographical Information Science, 2024  
+   [Link to Paper](https://doi.org/10.1080/13658816.2024.2405182)
 
 21. **Title of Paper 3**  
    Authors: Author1, Author2, Author3  
