@@ -101,44 +101,44 @@
    Published: International Journal of Geographical Information Science, 2024  
    [Link to Paper](https://doi.org/10.1080/13658816.2024.2405182)
 
-21. **Title of Paper 3**  
-   Authors: Author1, Author2, Author3  
-   Published: Journal Name, Year  
-   [Link to Paper](URL)
+21. **Three-Stage Extraction of Spatial Relationships Using Markers**  
+   Authors: Olek, M., & Piasecki, M.  
+   Published: Communications in Computer and Information Science, 2024  
+   [Link to Paper](https://doi.org/10.1007/978-3-031-70248-8_13)
 
-22. **Title of Paper 3**  
-   Authors: Author1, Author2, Author3  
-   Published: Journal Name, Year  
-   [Link to Paper](URL)
+22. **Enriching building function classification using Large Language Model embeddings of OpenStreetMap Tags**  
+   Authors: Memduhoğlu, A., Fulman, N., & Zipf, A.  
+   Published: Earth Science Informatics, 2024  
+   [Link to Paper](https://doi.org/10.1007/s12145-024-01463-8)
 
-23. **Title of Paper 3**  
-   Authors: Author1, Author2, Author3  
-   Published: Journal Name, Year  
-   [Link to Paper](URL)
+23. **Large Language Models: Testing Their Capabilities to Understand and Explain Spatial Concepts**  
+   Authors: Hojati, M., & Feick, R.  
+   Published: Leibniz International Proceedings in Informatics, LIPIcs, 2024  
+   [Link to Paper](https://doi.org/10.4230/LIPIcs.COSIT.2024.31)
 
-24. **Title of Paper 3**  
-   Authors: Author1, Author2, Author3  
-   Published: Journal Name, Year  
-   [Link to Paper](URL)
+24. **EarthGPT: A Universal Multimodal Large Language Model for Multisensor Image Comprehension in Remote Sensing Domain**  
+   Authors: Zhang, W., Cai, M., Zhang, T., Zhuang, Y., & Mao, X.  
+   Published: IEEE Transactions on Geoscience and Remote Sensing, 2024  
+   [Link to Paper](https://doi.org/10.1109/TGRS.2024.3409624)
 
-25. **Title of Paper 3**  
-   Authors: Author1, Author2, Author3  
-   Published: Journal Name, Year  
-   [Link to Paper](URL)
+25. **A flood knowledge-constrained large language model interactable with GIS: enhancing public risk perception of floods**  
+   Authors: Zhu, J., Dang, P., Cao, Y., Lai, J., Guo, Y., Wang, P., & Li, W  
+   Published: International Journal of Geographical Information Science, 2024  
+   [Link to Paper](https://doi.org/10.1080/13658816.2024.2306167)
 
-26. **Title of Paper 3**  
-   Authors: Author1, Author2, Author3  
-   Published: Journal Name, Year  
-   [Link to Paper](URL)
+26. **Towards Understanding the Geospatial Skills of ChatGPT: Taking a Geographic Information Systems (GIS) Exam**  
+   Authors: Mooney, P., Cui, W., Guan, B., & Juhász, L.  
+   Published: GeoAI 2023 - Proceedings of the 6th ACM SIGSPATIAL International Workshop on AI for Geographic Knowledge Discovery, 2023  
+   [Link to Paper](https://doi.org/10.1145/3615886.3627745)
 
-27. **Title of Paper 3**  
-   Authors: Author1, Author2, Author3  
-   Published: Journal Name, Year  
-   [Link to Paper](URL)
+27. **Evaluation of Placename Geoparsers**  
+   Authors: Kenyon, J., W. Karl, J., & Godfrey, B.  
+   Published: Journal of Map and Geography Libraries, 2023  
+   [Link to Paper](https://doi.org/10.1080/15420353.2024.2357115)
 
-28. **Title of Paper 3**  
+28. **Extracting Geographic Knowledge from Large Language Models: An Experiment**  
    Authors: Author1, Author2, Author3  
-   Published: Journal Name, Year  
+   Published: CEUR Workshop Proceedings, 2023  
    [Link to Paper](URL)
 
 29. **Title of Paper 3**  
