@@ -18,45 +18,42 @@
    Published: ISPRS International Journal of Geo-Information, 2024  
    [Link to Paper](https://doi.org/10.3390/ijgi13040127)
 
-4. **Title of Paper 3**  
-   Authors: Author1, Author2, Author3  
-   Published: Journal Name, Year  
-   [Link to Paper](URL)
+4. **Exploring the limitations in how ChatGPT introduces environmental justice issues in the United States: A case study of 3,108 counties**  
+   Kim, J., Lee, J., Jang, K. M., & Lourentzou, I.  
+   Published: Telematics and Informatics, 2024  
+   [Link to Paper](https://doi.org/10.1016/j.tele.2023.102085)
 
-5. **Title of Paper 3**  
-   Authors: Author1, Author2, Author3  
-   Published: Journal Name, Year  
-   [Link to Paper](URL)
+5. **Assessing ChatGPT for GIS education and assignment creation**  
+   Authors: Redican, K., Gonzalez, M., & Zizzamia, B.  
+   Published: Journal of Geography in Higher Education, 2024  
+   [Link to Paper](https://doi.org/10.1080/03098265.2024.2397332)
 
-6. **Title of Paper 3**  
-   Authors: Author1, Author2, Author3  
-   Published: Journal Name, Year  
-   [Link to Paper](URL)
+6. **When geoscience meets generative AI and large language models: Foundations, trends, and future challenges**  
+   Authors: Hadid, A., Chakraborty, T., & Busby, D.  
+   Published: Expert Systems, 2024  
+   [Link to Paper](https://doi.org/10.1111/exsy.13654)
 
-7. **Title of Paper 3**  
-   Authors: Author1, Author2, Author3  
-   Published: Journal Name, Year  
-   [Link to Paper](URL)
+7. **GPT, large language models (LLMs) and generative artificial intelligence (GAI) models in geospatial science: a systematic review**  
+   Authors: Wang, S., Hu, T., Xiao, H., Li, Y., Zhang, C., Ning, H., Zhu, R., Li, Z., & Ye, X.  
+   Published: International Journal of Digital Earth, 2024  
+   [Link to Paper](https://doi.org/10.1080/17538947.2024.2353122)
 
-8. **Title of Paper 3**  
-   Authors: Author1, Author2, Author3  
-   Published: Journal Name, Year  
-   [Link to Paper](URL)
+8. **Bridging the Gap: Enhancing Geospatial Analysis with Natural Language and Scenario Generation Language**  
+   Authors: Frez, J., & Baloian, N.  
+   Published: Lecture Notes in Networks and Systems, 2023  
+   [Link to Paper](https://doi.org/10.1007/978-3-031-48642-5_24)
 
-9. **Title of Paper 3**  
-   Authors: Author1, Author2, Author3  
-   Published: Journal Name, Year  
-   [Link to Paper](URL)
+9. **Autonomous GIS: the next-generation AI-powered GIS**  
+   Authors: Li, Z., & Ning, H.  
+   Published: International Journal of Digital Earth, 2023  
+   [Link to Paper](https://doi.org/10.1080/17538947.2023.2278895)
 
-10. **GeoGPT: An assistant for understanding and processing geospatial tasks**  
+## Reviewed papers in the field of LLM-based spatial data extraction
+
+11. **GeoGPT: An assistant for understanding and processing geospatial tasks**  
    Authors: Zhang, Y., Wei, C., He, Z., & Yu, W  
    Published: International journal of Applied earth Observation and Geoinformation, 2024  
    [Link to Paper](https://doi.org/10.1016/j.jag.2024.103976)
-
-11. **Title of Paper 3**  
-   Authors: Author1, Author2, Author3  
-   Published: Journal Name, Year  
-   [Link to Paper](URL)
 
 12. **Title of Paper 3**  
    Authors: Author1, Author2, Author3  
@@ -274,6 +271,11 @@
    [Link to Paper](URL)
 
 55. **Title of Paper 3**  
+   Authors: Author1, Author2, Author3  
+   Published: Journal Name, Year  
+   [Link to Paper](URL)
+
+56. **Title of Paper 3**  
    Authors: Author1, Author2, Author3  
    Published: Journal Name, Year  
    [Link to Paper](URL)
